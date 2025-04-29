@@ -1,7 +1,7 @@
 # Fable: Fairness and Bias in LLM Evaluation
 
 ## Introduction
-Fable (Fairness And Bias in LLM Evaluation) is a comprehensive benchmark designed to systematically evaluate fairness and bias in open-source Large Language Models (LLMs), particularly those accessed via the Ollama framework. As LLMs become increasingly integrated into real-world applications, understanding and mitigating their potential biases across sensitive categories like Religion, Race, Politics, and Gender is critical. Fable addresses the need for standardized, multi-dimensional evaluation by providing curated prompt sets and leveraging automated classifiers (toxicity detection, hate speech identification, zero-shot NLI) to quantitatively measure biased responses. This approach facilitates reproducible assessments, enables comparison across models, highlights progress, pinpoints remaining challenges in bias mitigation, and promotes transparency within the open-source LLM community.
+Fable (Fairness And Bias in LLM Evaluation) is a comprehensive benchmark designed to systematically evaluate fairness and bias in open-source Large Language Models (LLMs), particularly those accessed via the Ollama framework. As LLMs become increasingly integrated into real-world applications, understanding and mitigating their potential biases across sensitive categories like Religion, Race, Politics, and Gender is critical. Fable addresses the need for standardized, multi-dimensional evaluation by providing curated prompt sets and leveraging automated classifiers (toxicity detection, hate speech identification, zero-shot NLI) to quantitatively measure biased responses.
 
 ## Project Metadata
 ### Authors
